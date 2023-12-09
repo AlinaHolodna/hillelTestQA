@@ -1,0 +1,121 @@
+body {
+	background-image: url("/home/holodnaia/hillel/hillelTestQA/home work/photo/background2.jpg");
+	background-size: cover; 
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	font-size: 40px;
+}
+
+.profile {
+	border-radius: 35%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lapa{
+	display: block;
+	margin-left: 225px;
+}
+
+.cont {
+	margin-left: 40em;
+}
+p {
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	font-size: 30px;
+}
+
+.conection {
+	color: black;
+	text-align: center;
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	font-size: 40px;
+}
+
+.number {
+	align-items: left;
+	background: url("/home/holodnaia/hillel/hillelTestQA/home work/photo/phone.png"); 
+	height: 505px; 
+	width:500px;
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	font-size: 30px;
+	color: green;
+	margin-left: 5em;
+	text-align: center;
+ 	position: absolute;
+ 	top: 27%;
+ 	line-height: 14;
+}
+
+.letter {
+	align-items: right;
+	background: url("/home/holodnaia/hillel/hillelTestQA/home work/photo/email.png"); 
+	height: 450px; 
+	width:500px;
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+	font-size: 30px;
+	color: green;
+	margin-left: 35em;
+	text-align: center;
+	background-size: cover;
+ 	position: absolute;
+	top: 27%;
+	line-height: 3;
+}
+
+.Oh {
+	text-align: left;
+	font-family: Georgia, "Times New Roman",
+          Times, serif;
+          font-size: 40px;
+}
+
+.suitcase {
+	border-radius: 35%;
+	display: block;
+	left: 1325px;
+	position: relative;
+}
+
+.sofa {
+	border-radius: 35%;
+	display: block;
+	margin-left: 35px;
+}
+
+.hac {
+	border-radius: 35%;
+	display: block;
+	left: 1450px;
+	position: relative;
+}
+
+.young {
+	border-radius: 35%;
+	display: block;
+	margin-left: 35px;
+}
+
+.s {
+	text-align: right;
+	color: green;
+	margin-right: 55px;
+	font-size: 25px;
+}
+
+.s1 {
+	text-align: left;
+	color: green;
+	margin-left: 55px;
+	font-size: 25px;
+}
